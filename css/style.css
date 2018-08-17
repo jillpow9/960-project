@@ -1,0 +1,122 @@
+.main{
+    background: #f0f2f2;
+}
+
+.top-bar{
+    background-color: #121e29;
+    float: center;
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+}
+.top-bar a{
+    text-decoration: none;
+}
+
+.un ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+}
+.un li{
+    display: inline;
+    margin: 5px;
+
+}
+.un a{
+    outline: none;
+    padding: 5px 5px 3px;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-right: 2px;
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+}
+.deux a{
+    outline: none;
+    padding: 5px 5px 3px;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-right: 2px;
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+}
+a:link{
+    background-color: #121e29;
+    color: #f0f2f2;
+}
+a:visited{
+    background-color: #121e29;
+    color: #f0f2f2;
+}
+a:hover{
+    background-color: #ff8903;
+    color: #f0f2f2;
+}
+.baby ul{
+    margin-right: 10px;
+    float: right;
+    list-style: none;
+
+}
+.baby a{
+    text-decoration: none;
+}
+.happy a{
+    padding: 5px;
+    color: #f0f2f2;
+    text-decoration: none;
+    float: right;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 10px;
+}
+
+.nav{
+    align: center;
+
+}
+.deux{
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.deux a{
+    text-decoration: none;
+}
+.trois{
+    font-family: 'Fjalla One', sans-serif;  
+    background: #355578; /* Old Browsers */
+    background: -webkit-radial-gradient(top,#355578,#101a24); /*Safari 5.1-6*/
+    background: -o-radial-gradient(top,#355578,#101a24); /*Opera 11.1-12*/
+    background: -moz-radial-gradient(top,#355578,#101a24); /*Fx 3.6-15*/
+    background: radial-gradient(to bottom, #355578, #101a24); /*Standard*/
+    color: white;
+    text-decoration: none;
+    position: relative;
+
+}
+.trois li{
+    list-style: none;
+    position: left;
+
+}
+.trois a{
+    text-decoration: none;
+    color: white;
+
+}
+.crazy ul{
+    color: gray;
+}
+.trois ok ul{
+    margin: 0px;
+}
+.last{
+    background: 091014;
+}
