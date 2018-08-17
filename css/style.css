@@ -8,6 +8,7 @@
     text-decoration: none;
     padding: 10px;
     position: relative;
+    font-size: 14px;
 }
 .top-bar a{
     text-decoration: none;
@@ -73,6 +74,7 @@ a:hover{
     float: right;
     font-family: 'Fjalla One', sans-serif;
     margin-top: 10px;
+    margin-right: 3px;
 }
 
 .nav{
